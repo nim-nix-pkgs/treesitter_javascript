@@ -11,8 +11,8 @@
   inputs.src-treesitter_javascript-master.ref   = "refs/heads/master";
   inputs.src-treesitter_javascript-master.owner = "genotrance";
   inputs.src-treesitter_javascript-master.repo  = "nimtreesitter";
-  inputs.src-treesitter_javascript-master.dir   = "treesitter_javascript";
-  inputs.src-treesitter_javascript-master.type  = "github";
+    inputs.src-treesitter_javascript-master.dir   = "treesitter_javascript";
+inputs.src-treesitter_javascript-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
   inputs."nimgen".ref   = "master";
